@@ -80,7 +80,7 @@ Vaults can be deployed with unchangeable parameters.
 Displayed with an **(I)** tag.
 
 Example:  
-**ETH-Accumulator (I)** — 100% HLP, APR → ETH, weekly compounding
+**BTC-Accumulator (I)** — 100% HLP, APR → BTC, weekly compounding
 
 ---
 
