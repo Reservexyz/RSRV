@@ -27,7 +27,7 @@ It transforms HLP yield into an **on-chain coordination mechanism** capable of f
 
 ## **3. Core Mechanics**
 
-- **Vault Entry:** Users deposit into a **Reserve vault**, not directly into the HLP.  
+- **Vault Entry:** Users deposit into a **Reserve vault**.  
 - **100% HLP Exposure:** Each vault maintains **full exposure to the Hyperliquid Liquidity Pool (HLP)**.  
 - **Yield Accrual:** The vault continuously **collects the APR flow** generated from its HLP exposure.  
 - **Flow Redirection:** At each interval (block, epoch, or event-based trigger), the **yield stream** is **redirected** according to the vault’s defined policy (e.g., compounding, liquidity bootstrap, ecosystem grants).  
