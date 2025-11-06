@@ -98,10 +98,3 @@ Reserve is more than a yield aggregator — it’s a **coordination layer** for 
 By keeping principal exposure entirely HLP-native and reprogramming yield flows, Reserve vaults turn passive yield into **productive, directional capital**: funding growth, safety, innovation, and shared infrastructure.  
 
 > **Yield doesn’t just compound — it coordinates.**
-
----
-
-### 🔗 **Check out our GitHub**
-
-Our repository is live — any feedback or contribution is welcome.  
-Propose new vault logic, design yield routes, or help shape the next layer of the Hyperliquid ecosystem.
