@@ -45,7 +45,7 @@ These strategies determine **how and where HLP-generated yield is redirected**, 
 Routes can operate **natively within Hyperliquid** or extend **exogenously** through bridges, connectors, or partner protocols — depending on vault purpose, governance, and system permissions.  
 This flexibility allows Reserve vaults to function as a coordination layer between **yield generation, accumulation, and ecosystem growth**.
 
-### **Core Routing Modes**
+### **Routing Modes**
 
 1. **Compounding and Growth**  
    Yield is reinvested into HLP or used to increase base exposure.  
