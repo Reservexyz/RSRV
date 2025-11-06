@@ -45,32 +45,28 @@ These strategies determine **how and where HLP-generated yield is redirected**, 
 Routes can operate **natively within Hyperliquid** or extend **exogenously** through bridges, connectors, or partner protocols — depending on vault purpose, governance, and system permissions.  
 This flexibility allows Reserve vaults to function as a coordination layer between **yield generation, accumulation, and ecosystem growth**.
 
-### **Routing Modes**
+### **Routing Modes** 
 
-1. **Compounding and Growth**  
-   Yield is reinvested into HLP or used to increase base exposure.  
-   - *Example:* 100% yield compounded or redirected periodically (e.g., daily auto-buy of HYPE or other governance tokens).  
-
-2. **Asset Accumulation**  
+1. **Asset Accumulation**  
    Yield is used to accumulate specific assets — native or external.  
    - *Examples:*  
      - Accumulate HYPE to strengthen alignment with protocol value.  
      - Build a basket of ecosystem tokens, stables, or NFTs.  
      - Accumulate non-Hyperliquid assets such as LSTs, governance tokens, or unlisted tokens.  
 
-3. **Liquidity and Expansion**  
+2. **Liquidity and Expansion**  
    Yield flows are redirected to bootstrap new markets or liquidity pools.  
    - *Examples:*  
-     - Seed liquidity for a new HL pool or asset.  
+     - Seed liquidity for a new pool or asset.  
      - Bootstrap liquidity in partner ecosystems via external bridges.  
 
-4. **Ecosystem and Collective Funding**  
+3. **Ecosystem and Collective Funding**  
    Yield is allocated to shared initiatives or community infrastructure.  
    - *Examples:*  
      - Fund retroactive grants or on-chain public goods.  
      - Support development, research, or resilience modules.  
 
-5. **External Yield and Diversification**  
+4. **External Yield and Diversification**  
    Part of the yield can be routed into other yield-bearing systems (within defined limits).  
    - *Examples:*  
      - Deploy in restaking services, low-risk money markets, or cross-ecosystem integrations.  
